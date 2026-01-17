@@ -1,1 +1,1 @@
-# SQL_Resume_Project
+# SQL_Online_Book_Store_Project
